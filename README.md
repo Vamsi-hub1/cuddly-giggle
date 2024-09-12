@@ -1,2 +1,1 @@
-# cuddly-giggle
-This is a demo github usage
+this file is created by vamsi
